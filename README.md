@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jupoulet
+- 👀 I’m interested in frontend development 
+- 🏡 I’m currently working at LinkValue, Paris
+- 📫 How to reach me: julien.pierre.picard@gmail.com
